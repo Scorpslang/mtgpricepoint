@@ -1,0 +1,927 @@
+{
+   "totalItems": 307,
+   "success": true,
+   "errors": [],
+   "results": [
+      {
+         "productId": 182119,
+         "name": "Rakdos Firewheeler",
+         "cleanName": "Rakdos Firewheeler",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182119_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rakdos-firewheeler",
+         "modifiedOn": "2019-01-30T18:55:59.907"
+      },
+      {
+         "productId": 182121,
+         "name": "Simic Ascendancy",
+         "cleanName": "Simic Ascendancy",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182121_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/simic-ascendancy",
+         "modifiedOn": "2019-01-03T21:20:36.19"
+      },
+      {
+         "productId": 182123,
+         "name": "Gate Colossus",
+         "cleanName": "Gate Colossus",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182123_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gate-colossus",
+         "modifiedOn": "2019-02-06T17:02:09.283"
+      },
+      {
+         "productId": 182125,
+         "name": "Growth Spiral",
+         "cleanName": "Growth Spiral",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182125_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/growth-spiral",
+         "modifiedOn": "2019-01-26T17:30:27.827"
+      },
+      {
+         "productId": 182127,
+         "name": "Light Up the Stage",
+         "cleanName": "Light Up the Stage",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182127_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/light-up-the-stage",
+         "modifiedOn": "2019-02-15T15:16:38.307"
+      },
+      {
+         "productId": 182129,
+         "name": "Mortify",
+         "cleanName": "Mortify",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182129_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/mortify",
+         "modifiedOn": "2019-02-13T13:42:15.61"
+      },
+      {
+         "productId": 182131,
+         "name": "Lavinia, Azorius Renegade",
+         "cleanName": "Lavinia Azorius Renegade",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182131_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/lavinia-azorius-renegade",
+         "modifiedOn": "2019-01-03T21:09:35.06"
+      },
+      {
+         "productId": 182135,
+         "name": "Rix Maadi Reveler",
+         "cleanName": "Rix Maadi Reveler",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182135_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rix-maadi-reveler",
+         "modifiedOn": "2019-01-03T21:19:56.6"
+      },
+      {
+         "productId": 182136,
+         "name": "Rafter Demon",
+         "cleanName": "Rafter Demon",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182136_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rafter-demon",
+         "modifiedOn": "2019-01-03T21:17:30.007"
+      },
+      {
+         "productId": 182205,
+         "name": "Tithe Taker",
+         "cleanName": "Tithe Taker",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182205_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/tithe-taker",
+         "modifiedOn": "2019-01-27T17:27:08.71"
+      },
+      {
+         "productId": 182206,
+         "name": "Imperious Oligarch",
+         "cleanName": "Imperious Oligarch",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182206_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/imperious-oligarch",
+         "modifiedOn": "2019-01-14T16:30:58.743"
+      },
+      {
+         "productId": 182213,
+         "name": "Aeromunculus",
+         "cleanName": "Aeromunculus",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182213_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/aeromunculus",
+         "modifiedOn": "2019-01-03T20:56:19.8"
+      },
+      {
+         "productId": 182214,
+         "name": "Zegana, Utopian Speaker",
+         "cleanName": "Zegana Utopian Speaker",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182214_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/zegana-utopian-speaker",
+         "modifiedOn": "2019-02-08T19:06:48.493"
+      },
+      {
+         "productId": 182230,
+         "name": "Bedevil",
+         "cleanName": "Bedevil",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182230_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/bedevil",
+         "modifiedOn": "2019-01-03T20:57:56.943"
+      },
+      {
+         "productId": 182362,
+         "name": "Frenzied Arynx",
+         "cleanName": "Frenzied Arynx",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182362_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/frenzied-arynx",
+         "modifiedOn": "2019-01-03T21:02:32.57"
+      },
+      {
+         "productId": 182363,
+         "name": "Gruul Spellbreaker",
+         "cleanName": "Gruul Spellbreaker",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182363_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gruul-spellbreaker",
+         "modifiedOn": "2019-02-16T13:14:20.953"
+      },
+      {
+         "productId": 182409,
+         "name": "Sphinx's Insight",
+         "cleanName": "Sphinxs Insight",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182409_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/sphinxs-insight",
+         "modifiedOn": "2019-01-03T21:23:14.593"
+      },
+      {
+         "productId": 182410,
+         "name": "Emergency Powers",
+         "cleanName": "Emergency Powers",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182410_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/emergency-powers",
+         "modifiedOn": "2019-01-03T21:01:00.507"
+      },
+      {
+         "productId": 182411,
+         "name": "Incubation // Incongruity",
+         "cleanName": "Incubation Incongruity",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182411_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/incubation-incongruity",
+         "modifiedOn": "2019-01-27T19:28:38.013"
+      },
+      {
+         "productId": 182492,
+         "name": "Absorb",
+         "cleanName": "Absorb",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182492_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/absorb",
+         "modifiedOn": "2019-01-03T20:55:59.17"
+      },
+      {
+         "productId": 182820,
+         "name": "Sphinx of Foresight",
+         "cleanName": "Sphinx of Foresight",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182820_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/sphinx-of-foresight",
+         "modifiedOn": "2019-02-04T17:43:55.233"
+      },
+      {
+         "productId": 182821,
+         "name": "Azorius Guildgate (243)",
+         "cleanName": "Azorius Guildgate 243",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182821_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/azorius-guildgate-243",
+         "modifiedOn": "2019-01-26T11:56:19.087"
+      },
+      {
+         "productId": 182822,
+         "name": "Azorius Guildgate (244)",
+         "cleanName": "Azorius Guildgate 244",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182822_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/azorius-guildgate-244",
+         "modifiedOn": "2019-01-03T20:57:18.18"
+      },
+      {
+         "productId": 182823,
+         "name": "Gruul Guildgate (249)",
+         "cleanName": "Gruul Guildgate 249",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182823_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gruul-guildgate-249",
+         "modifiedOn": "2019-01-03T21:04:40.61"
+      },
+      {
+         "productId": 182824,
+         "name": "Gruul Guildgate (250)",
+         "cleanName": "Gruul Guildgate 250",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182824_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gruul-guildgate-250",
+         "modifiedOn": "2019-01-03T21:05:00.603"
+      },
+      {
+         "productId": 182825,
+         "name": "Orzhov Guildgate (252)",
+         "cleanName": "Orzhov Guildgate 252",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182825_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/orzhov-guildgate-252",
+         "modifiedOn": "2019-01-03T21:15:12.513"
+      },
+      {
+         "productId": 182826,
+         "name": "Deputy of Detention",
+         "cleanName": "Deputy of Detention",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182826_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/deputy-of-detention",
+         "modifiedOn": "2019-01-03T21:00:16.24"
+      },
+      {
+         "productId": 182827,
+         "name": "Orzhov Guildgate (253)",
+         "cleanName": "Orzhov Guildgate 253",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182827_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/orzhov-guildgate-253",
+         "modifiedOn": "2019-01-03T21:15:35.4"
+      },
+      {
+         "productId": 182828,
+         "name": "Rakdos Guildgate (256)",
+         "cleanName": "Rakdos Guildgate 256",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182828_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rakdos-guildgate-256",
+         "modifiedOn": "2019-01-03T21:18:32.123"
+      },
+      {
+         "productId": 182829,
+         "name": "Rakdos Guildgate (255)",
+         "cleanName": "Rakdos Guildgate 255",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182829_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rakdos-guildgate-255",
+         "modifiedOn": "2019-01-03T21:18:12.047"
+      },
+      {
+         "productId": 182830,
+         "name": "Simic Guildgate (257)",
+         "cleanName": "Simic Guildgate 257",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182830_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/simic-guildgate-257",
+         "modifiedOn": "2019-01-03T21:20:54.087"
+      },
+      {
+         "productId": 182831,
+         "name": "Hallowed Fountain",
+         "cleanName": "Hallowed Fountain",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182831_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/hallowed-fountain",
+         "modifiedOn": "2019-01-03T21:06:00.363"
+      },
+      {
+         "productId": 182832,
+         "name": "Simic Guildgate (258)",
+         "cleanName": "Simic Guildgate 258",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182832_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/simic-guildgate-258",
+         "modifiedOn": "2019-01-03T21:21:18.817"
+      },
+      {
+         "productId": 182833,
+         "name": "Azorius Locket",
+         "cleanName": "Azorius Locket",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182833_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/azorius-locket",
+         "modifiedOn": "2019-01-03T20:57:37.39"
+      },
+      {
+         "productId": 182834,
+         "name": "Gruul Locket",
+         "cleanName": "Gruul Locket",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182834_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gruul-locket",
+         "modifiedOn": "2019-01-03T21:05:18.14"
+      },
+      {
+         "productId": 182835,
+         "name": "Orzhov Locket",
+         "cleanName": "Orzhov Locket",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182835_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/orzhov-locket",
+         "modifiedOn": "2019-01-03T21:15:58.95"
+      },
+      {
+         "productId": 182836,
+         "name": "Godless Shrine",
+         "cleanName": "Godless Shrine",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182836_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/godless-shrine",
+         "modifiedOn": "2019-01-03T21:03:35.9"
+      },
+      {
+         "productId": 182837,
+         "name": "Rakdos Locket",
+         "cleanName": "Rakdos Locket",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182837_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rakdos-locket",
+         "modifiedOn": "2019-01-03T21:18:55.21"
+      },
+      {
+         "productId": 182838,
+         "name": "Blood Crypt",
+         "cleanName": "Blood Crypt",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182838_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/blood-crypt",
+         "modifiedOn": "2019-01-03T20:58:37.95"
+      },
+      {
+         "productId": 182839,
+         "name": "Simic Locket",
+         "cleanName": "Simic Locket",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182839_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/simic-locket",
+         "modifiedOn": "2019-01-03T21:21:39.34"
+      },
+      {
+         "productId": 182840,
+         "name": "Hydroid Krasis",
+         "cleanName": "Hydroid Krasis",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182840_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/hydroid-krasis",
+         "modifiedOn": "2019-01-03T21:06:35.28"
+      },
+      {
+         "productId": 182841,
+         "name": "Stomping Ground",
+         "cleanName": "Stomping Ground",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182841_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/stomping-ground",
+         "modifiedOn": "2019-01-03T21:24:24.11"
+      },
+      {
+         "productId": 182842,
+         "name": "Breeding Pool",
+         "cleanName": "Breeding Pool",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182842_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/breeding-pool",
+         "modifiedOn": "2019-01-03T20:59:20.823"
+      },
+      {
+         "productId": 182949,
+         "name": "Judith, the Scourge Diva",
+         "cleanName": "Judith the Scourge Diva",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182949_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/judith-the-scourge-diva",
+         "modifiedOn": "2019-01-03T21:08:46.783"
+      },
+      {
+         "productId": 182950,
+         "name": "Dovin, Grand Arbiter",
+         "cleanName": "Dovin Grand Arbiter",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182950_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/dovin-grand-arbiter",
+         "modifiedOn": "2019-01-03T21:00:35.513"
+      },
+      {
+         "productId": 182951,
+         "name": "Kaya, Orzhov Usurper",
+         "cleanName": "Kaya Orzhov Usurper",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182951_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/kaya-orzhov-usurper",
+         "modifiedOn": "2019-02-13T14:55:36.917"
+      },
+      {
+         "productId": 182952,
+         "name": "Biomancer's Familiar",
+         "cleanName": "Biomancers Familiar",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182952_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/biomancers-familiar",
+         "modifiedOn": "2019-01-07T18:11:32.877"
+      },
+      {
+         "productId": 182953,
+         "name": "Amplifire",
+         "cleanName": "Amplifire",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182953_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/amplifire",
+         "modifiedOn": "2019-01-30T15:53:00.87"
+      },
+      {
+         "productId": 182954,
+         "name": "Mass Manipulation",
+         "cleanName": "Mass Manipulation",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182954_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/mass-manipulation",
+         "modifiedOn": "2019-01-07T18:10:47.033"
+      },
+      {
+         "productId": 182955,
+         "name": "Teysa Karlov",
+         "cleanName": "Teysa Karlov",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182955_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/teysa-karlov",
+         "modifiedOn": "2019-01-07T17:54:14.027"
+      },
+      {
+         "productId": 182956,
+         "name": "Seraph of the Scales",
+         "cleanName": "Seraph of the Scales",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182956_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/seraph-of-the-scales",
+         "modifiedOn": "2019-01-25T12:23:54.143"
+      },
+      {
+         "productId": 182957,
+         "name": "Skarrgan Hellkite",
+         "cleanName": "Skarrgan Hellkite",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182957_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/skarrgan-hellkite",
+         "modifiedOn": "2019-01-07T17:49:58.86"
+      },
+      {
+         "productId": 182958,
+         "name": "Spawn of Mayhem",
+         "cleanName": "Spawn of Mayhem",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182958_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/spawn-of-mayhem",
+         "modifiedOn": "2019-01-07T17:53:33.8"
+      },
+      {
+         "productId": 182959,
+         "name": "Ravager Wurm",
+         "cleanName": "Ravager Wurm",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182959_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/ravager-wurm",
+         "modifiedOn": "2019-01-07T17:48:01.263"
+      },
+      {
+         "productId": 182960,
+         "name": "Precognitive Perception",
+         "cleanName": "Precognitive Perception",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182960_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/precognitive-perception",
+         "modifiedOn": "2019-01-07T17:44:00.17"
+      },
+      {
+         "productId": 182961,
+         "name": "Depose // Deploy",
+         "cleanName": "Depose Deploy",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182961_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/depose-deploy",
+         "modifiedOn": "2019-01-07T17:30:18.367"
+      },
+      {
+         "productId": 182962,
+         "name": "Growth-Chamber Guardian",
+         "cleanName": "Growth Chamber Guardian",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182962_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/growth-chamber-guardian",
+         "modifiedOn": "2019-01-07T17:33:59.843"
+      },
+      {
+         "productId": 182963,
+         "name": "Bolrac-Clan Crusher",
+         "cleanName": "Bolrac Clan Crusher",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182963_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/bolrac-clan-crusher",
+         "modifiedOn": "2019-01-07T17:27:11.89"
+      },
+      {
+         "productId": 182964,
+         "name": "Rakdos, the Showstopper",
+         "cleanName": "Rakdos the Showstopper",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182964_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rakdos-the-showstopper",
+         "modifiedOn": "2019-01-07T17:45:31.613"
+      },
+      {
+         "productId": 182965,
+         "name": "Wilderness Reclamation",
+         "cleanName": "Wilderness Reclamation",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182965_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/wilderness-reclamation",
+         "modifiedOn": "2019-01-07T17:56:34.25"
+      },
+      {
+         "productId": 182994,
+         "name": "End-Raze Forerunners",
+         "cleanName": "End Raze Forerunners",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182994_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/end-raze-forerunners",
+         "modifiedOn": "2019-01-30T15:48:25.483"
+      },
+      {
+         "productId": 182997,
+         "name": "Prime Speaker Vannifar",
+         "cleanName": "Prime Speaker Vannifar",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/182997_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/prime-speaker-vannifar",
+         "modifiedOn": "2019-01-07T17:44:47.48"
+      },
+      {
+         "productId": 183000,
+         "name": "Pestilent Spirit",
+         "cleanName": "Pestilent Spirit",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183000_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/pestilent-spirit",
+         "modifiedOn": "2019-01-07T17:42:39.157"
+      },
+      {
+         "productId": 183030,
+         "name": "Zhur-Taa Goblin",
+         "cleanName": "Zhur Taa Goblin",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183030_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/zhur-taa-goblin",
+         "modifiedOn": "2019-01-30T16:00:11.69"
+      },
+      {
+         "productId": 183033,
+         "name": "Smothering Tithe",
+         "cleanName": "Smothering Tithe",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183033_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/smothering-tithe",
+         "modifiedOn": "2019-02-12T03:33:19.827"
+      },
+      {
+         "productId": 183034,
+         "name": "Gutterbones",
+         "cleanName": "Gutterbones",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183034_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gutterbones",
+         "modifiedOn": "2019-01-07T17:36:22.61"
+      },
+      {
+         "productId": 183035,
+         "name": "Basilica Bell-Haunt",
+         "cleanName": "Basilica Bell Haunt",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183035_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/basilica-bell-haunt",
+         "modifiedOn": "2019-01-07T17:25:37.187"
+      },
+      {
+         "productId": 183036,
+         "name": "Pitiless Pontiff",
+         "cleanName": "Pitiless Pontiff",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183036_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/pitiless-pontiff",
+         "modifiedOn": "2019-01-27T20:46:44.337"
+      },
+      {
+         "productId": 183041,
+         "name": "Rampage of the Clans",
+         "cleanName": "Rampage of the Clans",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183041_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/rampage-of-the-clans",
+         "modifiedOn": "2019-01-07T17:46:57.037"
+      },
+      {
+         "productId": 183056,
+         "name": "Frilled Mystic",
+         "cleanName": "Frilled Mystic",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183056_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/frilled-mystic",
+         "modifiedOn": "2019-01-07T17:32:58.76"
+      },
+      {
+         "productId": 183057,
+         "name": "Bankrupt in Blood",
+         "cleanName": "Bankrupt in Blood",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183057_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/bankrupt-in-blood",
+         "modifiedOn": "2019-01-30T18:21:30.92"
+      },
+      {
+         "productId": 183058,
+         "name": "Blade Juggler",
+         "cleanName": "Blade Juggler",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183058_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/blade-juggler",
+         "modifiedOn": "2019-01-07T17:26:33.673"
+      },
+      {
+         "productId": 183059,
+         "name": "Smelt-Ward Ignus",
+         "cleanName": "Smelt Ward Ignus",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183059_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/smelt-ward-ignus",
+         "modifiedOn": "2019-01-07T17:51:12.86"
+      },
+      {
+         "productId": 183060,
+         "name": "Electrodominance",
+         "cleanName": "Electrodominance",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183060_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/electrodominance",
+         "modifiedOn": "2019-01-07T17:30:56.127"
+      },
+      {
+         "productId": 183061,
+         "name": "Cry of the Carnarium",
+         "cleanName": "Cry of the Carnarium",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183061_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/cry-of-the-carnarium",
+         "modifiedOn": "2019-02-08T19:52:56.88"
+      },
+      {
+         "productId": 183062,
+         "name": "High Alert",
+         "cleanName": "High Alert",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183062_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/high-alert",
+         "modifiedOn": "2019-01-07T17:37:13.857"
+      },
+      {
+         "productId": 183063,
+         "name": "Consecrate // Consume",
+         "cleanName": "Consecrate Consume",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183063_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/consecrate-consume",
+         "modifiedOn": "2019-01-28T15:14:26.52"
+      },
+      {
+         "productId": 183064,
+         "name": "Carnival // Carnage",
+         "cleanName": "Carnival Carnage",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183064_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/carnival-carnage",
+         "modifiedOn": "2019-01-27T17:28:22.687"
+      },
+      {
+         "productId": 183076,
+         "name": "Biogenic Upgrade",
+         "cleanName": "Biogenic Upgrade",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183076_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/biogenic-upgrade",
+         "modifiedOn": "2019-01-30T17:57:35.583"
+      },
+      {
+         "productId": 183080,
+         "name": "Titanic Brawl",
+         "cleanName": "Titanic Brawl",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183080_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/titanic-brawl",
+         "modifiedOn": "2019-01-21T14:03:31.447"
+      },
+      {
+         "productId": 183081,
+         "name": "Quench",
+         "cleanName": "Quench",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183081_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/quench",
+         "modifiedOn": "2019-01-07T18:07:17.683"
+      },
+      {
+         "productId": 183084,
+         "name": "Grasping Thrull",
+         "cleanName": "Grasping Thrull",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183084_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/grasping-thrull",
+         "modifiedOn": "2019-01-07T18:06:10.42"
+      },
+      {
+         "productId": 183086,
+         "name": "Burning-Tree Vandal",
+         "cleanName": "Burning Tree Vandal",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183086_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/burning-tree-vandal",
+         "modifiedOn": "2019-01-07T18:08:16.723"
+      },
+      {
+         "productId": 183088,
+         "name": "Angelic Exaltation",
+         "cleanName": "Angelic Exaltation",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183088_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/angelic-exaltation",
+         "modifiedOn": "2019-01-07T18:09:10.27"
+      },
+      {
+         "productId": 183113,
+         "name": "Humongulus",
+         "cleanName": "Humongulus",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183113_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/humongulus",
+         "modifiedOn": "2019-01-07T18:01:04.36"
+      },
+      {
+         "productId": 183114,
+         "name": "Drill Bit",
+         "cleanName": "Drill Bit",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183114_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/drill-bit",
+         "modifiedOn": "2019-01-27T19:26:15.893"
+      },
+      {
+         "productId": 183115,
+         "name": "Verity Circle",
+         "cleanName": "Verity Circle",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183115_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/verity-circle",
+         "modifiedOn": "2019-01-30T15:59:29.053"
+      },
+      {
+         "productId": 183173,
+         "name": "Theater of Horrors",
+         "cleanName": "Theater of Horrors",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183173_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/theater-of-horrors",
+         "modifiedOn": "2019-01-30T18:55:32.863"
+      },
+      {
+         "productId": 183174,
+         "name": "Mesmerizing Benthid",
+         "cleanName": "Mesmerizing Benthid",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183174_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/mesmerizing-benthid",
+         "modifiedOn": "2019-01-11T16:01:17.19"
+      },
+      {
+         "productId": 183175,
+         "name": "Burn Bright",
+         "cleanName": "Burn Bright",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183175_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/burn-bright",
+         "modifiedOn": "2019-01-11T16:01:44.853"
+      },
+      {
+         "productId": 183176,
+         "name": "Gruul Beastmaster",
+         "cleanName": "Gruul Beastmaster",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183176_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/gruul-beastmaster",
+         "modifiedOn": "2019-01-10T20:31:30.103"
+      },
+      {
+         "productId": 183177,
+         "name": "Sauroform Hybrid",
+         "cleanName": "Sauroform Hybrid",
+         "imageUrl": "https://6d4be195623157e28848-7697ece4918e0a73861de0eb37d08968.ssl.cf1.rackcdn.com/183177_200w.jpg",
+         "categoryId": 1,
+         "groupId": 2366,
+         "url": "https://store.tcgplayer.com/magic/ravnica-allegiance/sauroform-hybrid",
+         "modifiedOn": "2019-01-10T16:25:39.517"
+      }
+   ]
+}
