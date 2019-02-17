@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0807ac21-e0b7-41ab-bc6f-2db6751cbfb3" name="Default Changelist" comment="" />
+    <list default="true" id="0807ac21-e0b7-41ab-bc6f-2db6751cbfb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +25,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
-          <entry key="json" value="9" />
+          <entry key="json" value="11" />
           <entry key="py" value="13" />
           <entry key="txt" value="1" />
           <entry key="yaml" value="1" />
@@ -31,8 +36,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="JSON" value="9" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JSON" value="11" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="13" />
           <entry key="YAML" value="1" />
         </counts>
@@ -42,7 +47,7 @@
           <entry key="dummy" value="7" />
           <entry key="html" value="423" />
           <entry key="json" value="104" />
-          <entry key="py" value="9514" />
+          <entry key="py" value="9534" />
           <entry key="txt" value="16" />
           <entry key="yaml" value="33" />
         </counts>
@@ -52,7 +57,7 @@
           <entry key="HTML" value="423" />
           <entry key="JSON" value="104" />
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="9514" />
+          <entry key="Python" value="9534" />
           <entry key="YAML" value="33" />
         </counts>
       </usages-collector>
@@ -73,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/rna.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="435" column="7" lean-forward="true" selection-start-line="435" selection-start-column="7" selection-end-line="435" selection-end-column="7" />
+              <caret line="435" column="7" selection-start-line="435" selection-start-column="7" selection-end-line="435" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -81,25 +86,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/guessr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            <state relative-caret-position="174">
+              <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
-                <marker date="1550402183365" expanded="true" signature="111:113" ph="..." />
-                <marker date="1550402183365" expanded="true" signature="460:916" ph="..." />
-                <marker date="1550402183365" expanded="true" signature="972:974" ph="..." />
-                <marker date="1550402183365" expanded="true" signature="1001:1382" ph="..." />
-                <marker date="1550402183365" expanded="true" signature="1219:1382" ph="..." />
+                <marker date="1550417114134" expanded="true" signature="111:113" ph="..." />
+                <marker date="1550417114134" expanded="true" signature="460:916" ph="..." />
+                <marker date="1550417114134" expanded="true" signature="972:974" ph="..." />
+                <marker date="1550417114134" expanded="true" signature="1001:1382" ph="..." />
+                <marker date="1550417114134" expanded="true" signature="1219:1382" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tcg.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/front.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -108,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/access.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
                 <marker date="1550397814304" expanded="true" signature="250:555" ph="..." />
@@ -128,6 +138,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,6 +174,7 @@
     <option name="width" value="1302" />
     <option name="height" value="692" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -177,6 +191,11 @@
               <item name="pricepoint-tcg" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtgpricepoint" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pricepoint-tcg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtgpricepoint" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,19 +363,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29893237" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -438,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tcg.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -459,17 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/front.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rna.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="435" column="7" lean-forward="true" selection-start-line="435" selection-start-column="7" selection-end-line="435" selection-end-column="7" />
+          <caret line="435" column="7" selection-start-line="435" selection-start-column="7" selection-end-line="435" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -483,7 +488,7 @@
     <entry file="file://$PROJECT_DIR$/access.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
             <marker date="1550397814304" expanded="true" signature="250:555" ph="..." />
@@ -494,17 +499,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tcg.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/front.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcg.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/guessr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        <state relative-caret-position="174">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1550402183365" expanded="true" signature="111:113" ph="..." />
-            <marker date="1550402183365" expanded="true" signature="460:916" ph="..." />
-            <marker date="1550402183365" expanded="true" signature="972:974" ph="..." />
-            <marker date="1550402183365" expanded="true" signature="1001:1382" ph="..." />
-            <marker date="1550402183365" expanded="true" signature="1219:1382" ph="..." />
+            <marker date="1550417114134" expanded="true" signature="111:113" ph="..." />
+            <marker date="1550417114134" expanded="true" signature="460:916" ph="..." />
+            <marker date="1550417114134" expanded="true" signature="972:974" ph="..." />
+            <marker date="1550417114134" expanded="true" signature="1001:1382" ph="..." />
+            <marker date="1550417114134" expanded="true" signature="1219:1382" ph="..." />
           </folding>
         </state>
       </provider>
